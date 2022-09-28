@@ -9,6 +9,8 @@
       npm i express
       npm i cors
       npm i dotenv
+      npm install --save sequelize
+      npm install --save mysql2
 
 ## Configuracion
 
@@ -24,3 +26,7 @@
 
 - tsc ( Modo observador )
       "build": "tsc --watch"
+
+## Enlaces
+
+- [Sequelize](https://sequelize.org/docs/v6/getting-started/)
